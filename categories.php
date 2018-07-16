@@ -1,5 +1,5 @@
 <?php
-/* Las categorias no tienen el atributo de visibilidad    */
+/* Las categorias no tienen el atributo de visibilidad, test    */
 $categories_airtable = array(
 
   "https://www.fravega.com/informatica/accesorios-de-informatica",
